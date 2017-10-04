@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Terms</key>
+	<dict>
+		<key>generic</key>
+		<dict>
+			<key>Definition</key>
+			<string>Generic programming is a style of computer programming in which algorithms are written in terms of types to-be-specified-later that are then instantiated when needed for specific types provided as parameters. Source: [Wikipedia](https://en.wikipedia.org/wiki/Generic_programming)</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Generic programming</string>
+				<key>PageReference</key>
+				<string>Lists/Adding%20elements</string>
+			</dict>
+		</dict>
+		<key>head</key>
+		<dict>
+			<key>Definition</key>
+			<string>The head of a list is a list node that contains no actual data. A reference to a list is always a pointer to the head node. The first element of a list is always head.next.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Head of a List</string>
+				<key>PageReference</key>
+				<string>Lists/Adding%20elements</string>
+			</dict>
+		</dict>
+		<key>array</key>
+		<dict>
+			<key>Definition</key>
+			<string>An array is a data structure that contains a group of elements. Typically these elements are all of the same data type, such as an integer or string. Arrays are commonly used in computer programs to organize data so that a related set of values can be easily sorted or searched. Source: [Techterms](https://techterms.com/definition/array)</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Array</string>
+				<key>PageReference</key>
+				<string>Lists/Deleting%20elements%20I</string>
+			</dict>
+		</dict>
+		<key>node</key>
+		<dict>
+			<key>Definition</key>
+			<string>Every node in a list has an element and a reference to its successor. A list is a data structure consisting of several nodes.</string>
+			<key>FirstUse</key>
+			<dict>
+				<key>Title</key>
+				<string>Node</string>
+				<key>PageReference</key>
+				<string>Lists/Deleting%20elements%20II</string>
+			</dict>
+		</dict>
+	</dict>
+</dict>
+</plist>
